@@ -1,13 +1,19 @@
-## Hi there 👋
-**Chantynp/Chantynp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋🏼
+I'm santiago, Software Engineering student and AI developer intern.
 
-Here are some ideas to get you started:
+I've worked with:
+- 🛣️ Git/GitHub.
+- 🖨️ VS Code.
+- 🌊 n8n workflows.
+- 🌐 AI integration with Frontend and Backend.
+- 📶 Languages like: C++, JavaScript, Python, React.
 
-- 🔭 I’m currently working on ... Machine Learning
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## ¡Hola! 👋🏼
+Soy santiago, estudiante de Ingenieria de Software y practicante en desarrollo de IA.
+
+He trabajado con:
+- 🛣️ Git/GitHub.
+- 🖨️ VS Code.
+- 🌊 Workflows de n8n.
+- 🌐 Integración en Frontend y Backend.
+- 📶 Lenguajes como: C++, JavaScript, Python, React.
